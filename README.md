@@ -49,7 +49,7 @@ Shoya Sasaki., Katsuhiro Endo., and Mayu Muramatsu. Hamiltonian simulation for n
 
 In Bibtex format
 ```sh
-@article{sasaki2025hamiltonian,
+@article{sasaki2026,
   title={Hamiltonian simulation for nonlinear partial differential equation by Schr{\"o}dingerization},
   author={Sasaki, Shoya and Endo, Katsuhiro and Muramatsu, Mayu},
   journal={Scientific Reports},
