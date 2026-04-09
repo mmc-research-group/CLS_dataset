@@ -44,16 +44,17 @@ The results will be saved in `results/%Y-%m-%d_%H-%M-%S`
 ## Citation
 
 ```sh
-Shoya Sasaki, Katsuhiro Endo and Mayu Muramatsu, Hamiltonian simulation for nonlinear partial differential equation by Schrödingerization, arXiv preprint arXiv:2508.01640.
+Shoya Sasaki., Katsuhiro Endo., and Mayu Muramatsu. Hamiltonian simulation for nonlinear partial differential equation by Schrödingerization. Scientific Reports 16, 11743, 2026. 
 ```
 
 In Bibtex format
 ```sh
 @article{sasaki2025hamiltonian,
-  title={Hamiltonian simulation for nonlinear partial differential equation by Schr$\backslash$"$\{$o$\}$ dingerization},
+  title={Hamiltonian simulation for nonlinear partial differential equation by Schr{\"o}dingerization},
   author={Sasaki, Shoya and Endo, Katsuhiro and Muramatsu, Mayu},
-  journal={arXiv preprint arXiv:2508.01640},
-  year={2025}
+  journal={Scientific Reports},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
 ```
 
